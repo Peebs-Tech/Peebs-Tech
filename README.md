@@ -18,6 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=Peebs-Tech&style=flat-square&color=blue" alt=""/>
   
 <h1>
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGY2NmIwZDIyMDQ4ODEzYmM4NGRhZmUzMDk3MzAwNTk4MjQ2YTkxYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/gw46FwBSQjegD63gko/giphy.gif" width="200px"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRiOWZjOGQ1MDAyMGNhMmQ3M2QyNjgyYzM4M2Y2OGYxZWNmMGRlYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/3ohhwHvPLMmuemxTW0/giphy.gif" width="200px"/>
 </h1>
 </div>
@@ -31,7 +32,7 @@ I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/med
 
 - :seedling: Absorbig as much as I can in MLE and is currently applying for my Masters degree in Computer Science at the Georgia Institute of Technology
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on LeetCode and watch/read tech related contents/articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pintucan-pj/) 
 
