@@ -32,7 +32,7 @@
 I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
 - :telescope: I’m working as a Network Engineer trying to break into the field of Artificial Intelligence.
 
-- :seedling: Absorbig as much as I can in MLE and is applying for Masters in Computer Science at the Georgia Institute of Technology
+- :seedling: Absorbig as much as I can in MLE and is currently applying for my Masters degree in Computer Science at the Georgia Institute of Technology
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
