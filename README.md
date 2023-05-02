@@ -26,3 +26,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI1MDM4YjU1ZjI5NzI3YzMxOThiNmExYjBkYzIzYjU5ZDlmYzFmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500" height="300"/>
 </div>
 
+---
+
+### :astronaut:: About Me :
