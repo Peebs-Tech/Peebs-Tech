@@ -32,7 +32,7 @@ I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/med
 
 - :seedling: Absorbig as much as I can in MLE and is currently applying for my Masters degree in Computer Science at the Georgia Institute of Technology
 
-- :zap: In my free time, I solve problems on LeetCode and watch/read tech related contents/articles.
+- :zap: In my free time, I solve problems on LeetCode and watch/read tech related contents/articles, including important documentations e.g TensorFlow Documentations.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pintucan-pj/) 
 
