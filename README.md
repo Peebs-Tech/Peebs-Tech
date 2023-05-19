@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/pintucan-pj/">
+  <a href="https://www.linkedin.com/in/pintucan-pj/" target = "_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://peebs-tech.github.io/">
+  <a href="https://peebs-tech.github.io/" target = "_blank">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://twitter.com/PeebsTech">
+  <a href="https://twitter.com/PeebsTech" target = "_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -34,7 +34,7 @@ I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I solve problems on LeetCode and watch/read tech related contents/articles, including important documentations e.g TensorFlow Documentations.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pintucan-pj/) 
+- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-Mail-white?style=flat&logo=Mail&logoColor=white)](kinpintucan@gmail.com) 
 
 
 
