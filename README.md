@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/pintucan-pj/" target = "_blank">
+  <a href="https://www.linkedin.com/in/pintucan-pj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://peebs-tech.github.io/" target = "_blank">
+  <a href="https://peebs-tech.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge"/>
   </a>
-  <a href="https://twitter.com/PeebsTech" target = "_blank">
+  <a href="https://twitter.com/PeebsTech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
