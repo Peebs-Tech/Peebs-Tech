@@ -34,7 +34,7 @@ I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/med
 
 - :zap: In my free time, I solve problems on LeetCode and watch/read tech related contents/articles, including important documentations e.g TensorFlow Documentations.
 
-- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-Mail-white?style=flat&logo=Gmail&logoColor=white)](mailto:kinpintucan@gmail.com) 
+- :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-Mail-black?style=flat&logo=Gmail&logoColor=white)](mailto:kinpintucan@gmail.com) 
 
 
 
