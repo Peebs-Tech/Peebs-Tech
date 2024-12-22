@@ -27,8 +27,8 @@
 ---
 
 ### :astronaut:: About Me :
-I am an aspiring Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
-- :telescope: I’m working as a Network Engineer trying to break into the field of Artificial Intelligence.
+I'm an AI Engineer, focusing on the use of Azure platform <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
+- :telescope: Currenly using Azure platform, OpenAI, Semantic Kernel, Python.
 
 - :seedling: Absorbig as much as I can in MLE and is currently applying for my Masters degree in Computer Science at the Georgia Institute of Technology
 
